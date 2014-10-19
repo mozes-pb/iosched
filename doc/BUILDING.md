@@ -103,7 +103,7 @@ full experience, you need to set the lpreview property when building:
 
 To install on your test device, use:
 
-    ./gradlew -Plpreview installLpreviewDebug
+    ./gradlew -Plpreview installDebug
 
 You will need a device flashed with the Android L preview system image.
 
